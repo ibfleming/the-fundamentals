@@ -1,0 +1,18 @@
+# The Fundamentals by Ian Fleming
+
+This repository contains various implementations of programming concepts, principles, and techniques.
+I created this repository to keep my knowledge of such things fresh and understood for real-life applications.
+I envision most programs written in C/C++ but other languages may be utilized.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+...
+
+## Usage
+...
