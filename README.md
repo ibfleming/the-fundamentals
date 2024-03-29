@@ -12,7 +12,13 @@ I envision most programs written in C/C++ but other languages may be utilized.
 - [License](#license)
 
 ## Installation
+
 ...
 
 ## Usage
+
 ...
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
