@@ -13,7 +13,8 @@ I envision most programs written in C/C++ but other languages may be utilized.
 
 ## Installation
 
-...
+1. Clone the repostiory
+> git clone https://github.com/ibfleming/the-fundamentals.git
 
 ## Usage
 
