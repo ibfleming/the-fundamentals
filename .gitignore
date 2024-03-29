@@ -1,0 +1,5 @@
+# Ignore Visual Studio Code related files
+.vscode/
+
+# Ignore a.out executable file
+a.out
