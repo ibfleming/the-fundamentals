@@ -44,12 +44,12 @@ int main() {
    int arr[] = {64, 34, 25, 12, 22, 11, 90, 1, 0, 100, 43};
    int N = sizeof(arr) / sizeof(arr[0]);
 
-   printf("Unsorted array: ");
+   printf("[BubbleSort] Unsorted Array: ");
    print_array(arr, N);
 
    bubble_sort(arr, N);
 
-   printf("\nSorted array: ");
+   printf("\n[BubbleSort] Sorted Array: ");
    print_array(arr, N);
 
    return 0;
