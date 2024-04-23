@@ -57,6 +57,3 @@ int main() {
    z_search(text, pattern);
    return 0;
 }
-
-
-
